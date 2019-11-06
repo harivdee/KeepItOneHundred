@@ -1,0 +1,8 @@
+#Netbeans files
+build.xml
+build/
+dist/
+manifest.mf
+nbproject/
+lib/
+ignore
